@@ -1,5 +1,6 @@
 # Site Settings
-baseurl: ""
+baseurl: /research
+url: http://codebyzeb.github.io
 
 # Features Setting
 # Turn subpages on or off
