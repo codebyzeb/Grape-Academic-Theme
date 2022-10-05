@@ -1,7 +1,7 @@
 image: assets/img/smile.png
 username: Zeb Goriely
 description: PhD student at the University of Cambridge studying Computational Linguistics
-webpage: https://codebyzeb.github.io
+webpage: https://codebyzeb.github.io/research
 experience: # Remove for hiding the experience section
   - start: 2021
     end: 2025
@@ -30,7 +30,7 @@ social:
   gitlab: 
   bitbucket: 
   google_plus:
-  twitter: tweebyzeb
+  twitter: tweetbyzeb
   youtube: 
   facebook:
   instagram:
