@@ -34,5 +34,5 @@ social:
   youtube: 
   facebook:
   instagram:
-awards: # Remove for hiding the awards section
-  - Joint EPSRC and Vice-Chancellor’s Studentship
+#awards: # Remove for hiding the awards section
+#  - Joint EPSRC and Vice-Chancellor’s Studentship
