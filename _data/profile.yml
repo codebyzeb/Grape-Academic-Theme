@@ -1,19 +1,24 @@
 image: assets/img/smile.png
-username: Christoph Jabs
-description: creator of the Grape-Academic-Theme! Grape-Academic-Theme is a modification of the Grape-Theme by naye0ng, making it more suitable as an academic portfolio.
-webpage: https://chrjabs.github.io
+username: Zeb Goriely
+description: PhD student at the University of Cambridge studying Computational Linguistics
+webpage: https://codebyzeb.github.io
 experience: # Remove for hiding the experience section
-  - start: 2017-05-03
-    end: 2018-05-06
-    experience : company name, title
+  - start: 2021
+    end: 2025
+    experience : University of Cambridge, PhD in Computer Science
+  - start: 2017
+    end: 2021
+    experience : University of Cambridge, B.A + M.Eng (Hons) in Computer Science
 interests: # Remove for hiding the interests section
-  - Interest 1
-  - Interest 2
-skills: # Remove for hiding the skills section
-  - skill: HTML5 & CSS
-    value: 85  # Percent value
+  - Child Language Acquisition
+  - Artificial Neural Networks
+  - Morphology
+  - Word Segmentation
+#skills: # Remove for hiding the skills section
+#  - skill: HTML5 & CSS
+#    value: 85  # Percent value
 social:
-  email:  # Full email address, e.g. "sample@google.com"
+  email:  zebulon.goriely@cl.cam.ac.uk
   orcid: 
   scholar: 
   publons: 
@@ -21,13 +26,13 @@ social:
   dblp:  # Full URL
   semantic_scholar:  # Full URL
   linkedin:  # Full URL 
-  github: chrjabs
+  github: codebyzeb
   gitlab: 
-  bitbucket: chrjabs
+  bitbucket: 
   google_plus:
-  twitter: chrjabs
-  youtube:
+  twitter: tweebyzeb
+  youtube: 
   facebook:
   instagram:
 awards: # Remove for hiding the awards section
-  - "This is an award I got"
+  - Joint EPSRC and Vice-Chancellor’s Studentship
