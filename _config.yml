@@ -1,6 +1,6 @@
 # Site Settings
 baseurl: ""
-url: http://www.sitebyzeb.com
+#url: https://research.sitebyzeb.com
 
 # Features Setting
 # Turn subpages on or off
@@ -21,10 +21,10 @@ twitter:
   card: Zeb Goriely's Research
 logo: /assets/img/smile.png
 social:
-  name: Christoph Jabs
+  name: Zebulon Goriely
   links:
-    - https://twitter.com/chrjabs
-    - https://github.com/chrjabs
+    - https://twitter.com/tweetbyzeb
+    - https://github.com/codebyzeb
 locale: en_GB
 
 # Page Settings

@@ -1,7 +1,10 @@
 image: assets/img/smile.png
 username: Zeb Goriely
-description: PhD student at the University of Cambridge studying Computational Linguistics
-webpage: https://codebyzeb.github.io/research
+description: "I'm a PhD student at the University of Cambridge studying Computational Linguistics.
+My research involves using artificial neural networks to study the early stages of child language acquisition and I am supervised by Paula Buttery.
+\n\n
+For my film work, click [here](https://film.sitebyzeb.com)."
+webpage: http://research.sitebyzeb.com
 experience: # Remove for hiding the experience section
   - start: 2021
     end: 2025
@@ -25,7 +28,7 @@ social:
   research_gate: 
   dblp:  # Full URL
   semantic_scholar:  # Full URL
-  linkedin:  # Full URL 
+  linkedin:  https://www.linkedin.com/in/zgoriely/
   github: codebyzeb
   gitlab: 
   bitbucket: 
